@@ -1,0 +1,302 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: 0;
+}
+
+body{
+    font-family: 'Istok Web', sans-serif;
+}
+
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.photo img{
+  width: 128px;
+  height: 63px;
+  margin-top: 18px;
+  margin-right: 115px;
+  margin-bottom: 12px;
+
+
+}
+
+
+
+.header-text{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 138px;
+    margin-top: 32px;
+    margin-bottom: 28px;
+    gap: 120px;
+    font-family: Istok Web;
+    font-family: Istok Web;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 35.99px;
+    
+ 
+
+}
+
+.header-text a{
+    color: rgba(55, 71, 79, 1);
+}
+
+.section1 img{
+  width: 1442px;
+  height: 495px;
+  top: 92px;
+  left: -2px;
+  gap: 0px;
+  opacity: 0px;
+  object-fit: cover;
+  width: 100%;
+ 
+}
+
+.section2{
+    display: flex;
+    justify-content: center;
+    margin: 70px;
+    padding-bottom: 70px;
+    margin-bottom: 5px;
+
+}
+
+
+
+.section3 img{
+   display: flex;
+   width: 326.27px;
+   height: 326px;
+   border-radius: 22px;
+   object-fit: cover;
+
+}
+
+.section3{
+    display: flex;
+    justify-content: center;
+    gap: 118px;
+    padding-bottom: 101px;
+}
+
+.section-4 img{
+   display: flex;
+   width: 326.27px;
+   height: 326px;
+   border-radius: 22px;
+   object-fit: cover;
+
+}
+
+.section4{
+    display: flex;
+    justify-content: center;
+    gap: 118px;
+    padding-bottom: 101px;
+    margin-bottom: 185px;
+}
+
+.section-5{
+    padding-top: 66px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 110px;
+    background-color: rgba(187, 222, 251, 1);
+    
+
+}
+
+.title h2{
+    font-family: Istok Web;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 92.13px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    
+}
+
+
+.photo1 img{
+    
+    width: 518.77px;
+    height: 424px;
+    top: 2005px;
+    left: 113px;
+    gap: 0px;
+    border-radius: 20px;
+    opacity: 0px;
+    object-fit: cover;
+    border: 5px solid black; /* წვრილი შავი ზოლი */
+
+
+}
+
+.photo1{
+    display: flex;
+    justify-content: center; /* ჰორიზონტალურად ცენტრში */
+    align-items: center; /* ვერტიკალურად ცენტრში */
+    flex-direction: column; /* ტექსტი და ფოტო განლაგდება ვერტიკალურად */
+    margin-left: 113px;
+    border-radius: 20px;
+    margin-right: 125px;
+    margin-bottom: 189px;   
+  
+}
+
+.text2{
+display: flex;
+justify-content: center;
+align-items: center;
+font-family: 'Istok Web', sans-serif;
+font-size: 40px;
+font-weight: 700;
+line-height: 52px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+
+}
+
+.section-6{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: left;
+    padding-top: 100px;
+    background-color: rgba(187, 222, 251, 1);
+}
+
+
+.text span{
+    display: flex;
+    align-items: center;
+    font-weight: 400;
+    font-size: 40px;
+    margin-bottom: 20px; /* გასაზრდელი სივრცე */
+    
+}
+
+
+.section-7{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: left;
+    background-color: rgba(187, 222, 251, 1);
+
+}
+
+.text-bottom {
+    font-size: 40px;
+    margin-bottom: 20px; /* სივრცე */
+    max-width: 600px;
+    margin-left: 113px;
+
+
+    
+}
+
+.text-bottom span {
+    display: flex;
+    margin-top: 50px; /* სივრცე */
+    font-size: 40px; /* უფრო დიდი ტექსტის ზომა */
+    font-weight: 400;
+}
+
+.text-bottom p{
+    display: flex;
+    font-weight: 700;
+}
+
+.photo5 img{
+width: 518.77px;
+height: 424px;
+top: 2562px;
+left: 808.23px;
+gap: 0px;
+border-radius: 22px 0px 0px 0px;
+border: 5px 0px 0px 0px;
+opacity: 0px;
+margin-right: 113px;
+object-fit: cover;
+border-radius: 20px;
+border: 5px solid black; /* წვრილი შავი ზოლი */
+}
+
+.ambavi h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 1200px;
+    margin:215px 113px 305px 113px;
+    color: rgba(0, 0, 0, 1);
+    font-size: 64px
+
+        
+}
+
+.color{
+    background-color: rgba(187, 222, 251, 1);
+}
+
+.icon h1{
+  display: flex;
+  align-items: center;
+  padding-bottom: 188px;
+  justify-content: center;
+  font-size: 65px;
+  color: rgba(0, 0, 0, 1)
+  
+}
+
+.icons{
+    font-size: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:203px;
+    margin-bottom:305px;
+    
+}
+
+.icons a{
+    color: black;
+}
+
+.left-words h1{
+  margin-left: 127px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+
+}
+
+.right-words h1{
+    margin-right: 113px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.words{
+    padding-top: 95px;
+    padding-bottom: 115px;
+    background-color: rgba(187, 222, 251, 1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap:10px
+    
+   
+}
